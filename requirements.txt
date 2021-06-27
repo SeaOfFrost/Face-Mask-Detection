@@ -1,5 +1,5 @@
-tensorflow
-streamlit
+tensorflow==2.5.0
+streamlit==0.71.0
 opencv-python
-numpy
-pillow
+numpy==1.19.3
+pillow==8.0.1
